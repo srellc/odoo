@@ -1,0 +1,4 @@
+[submodule "srellc/sreaddons"]
+	path = srellc/sreaddons
+	url = git@github.com:srellc/sreaddons.git
+	branch = main
