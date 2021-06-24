@@ -2,3 +2,7 @@
 	path = srellc/sreaddons
 	url = git@github.com:srellc/sreaddons.git
 	branch = main
+[submodule "kt-contractors"]
+	path = kt-contractors
+	url = git@github.com:ktransferllc/kt-contractors.git
+	branch = 13.0
